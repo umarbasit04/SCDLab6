@@ -68,14 +68,20 @@ ADTLab/
 ## How to Run the Code
 - **In NetBeans:** open the project (File > Open Project, select the folder containing
   `pom.xml`), then right-click the project → **Run**.
-- **From the command line:** `mvn compile`
+- **From the command line:** 
+  ```sh
+  mvn compile
+  ```
 - Note: none of these classes have a `main()` method — they're exercised through the
   JUnit tests below, which is expected for this kind of lab.
 
 ## How to Run the Tests
 - **In NetBeans:** right-click the project → **Test**, or right-click an individual
   test class → **Test File**.
-- **From the command line:** `mvn test`
+- **From the command line:**
+  ```sh
+  mvn test
+  ```
 
 ## Testing
 JUnit 5 (Jupiter) was used for all test classes, covering the LIFO stack behavior,
@@ -84,7 +90,7 @@ implementations, and the Library/StudentCollection ADTs' normal and not-found/ed
 cases.
 
 ## Author
-[Student Name] – [Registration Number]
+Muhammad Umar Basit – 24ABSWE0003
 
 ## Course
 Software Construction and Development, 5th Semester Software Engineering,
