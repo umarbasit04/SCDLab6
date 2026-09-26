@@ -40,7 +40,7 @@ ADTLab/
 
 ## What Was Implemented
 
-**Guided walkthrough (from the Lab Manual):**
+**Guided walkthrough :**
 - `Stack<T>` (package `AbstractDataTypes`) — the ADT contract: `push`, `pop`, `peek`,
   `isEmpty`, `size`.
 - `ArrayStack<T>` — the concrete, fixed-capacity array-based implementation given in
